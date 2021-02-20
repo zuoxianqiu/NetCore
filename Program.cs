@@ -20,7 +20,7 @@ namespace NetCore
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseUrls("http://localhost:5002").UseStartup<Startup>();
+                    webBuilder.UseUrls("http://*:5002").UseStartup<Startup>();
                 });
     }
 }
