@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ikji8oma+C5DWmRncAcCfvp+9m+eo1K/wPeI56GbaFVlcdBZ5dphrUsZ53bcWkrW0G5DISnl6pqsjAjKwMwJQA==",
+  "dgSpecHash": "kcuW1o1Mis88IF8DlydtXAoaNeJuHrKpI9JPyvJFnS0n7p06JfdEzErZGyDh68t11r0LGE1fggITaYc0a3/ibA==",
   "success": true,
-  "projectFilePath": "G:\\alenson\\测试项目\\netCoreWeb\\NetCore\\NetCore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/alenson/netcoredemo/NetCore/NetCore.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.11/microsoft.netcore.app.host.linux-x64.3.1.11.nupkg.sha512"
+  ],
   "logs": []
 }
